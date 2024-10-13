@@ -104,5 +104,6 @@ int main() {
     }
     else cout << m << " khong ton tai trong day Blum duoc tao ra";
 
+    //? Giải phóng bộ nhớ
     delete [] array_Blum;
 }
